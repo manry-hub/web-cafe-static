@@ -4,16 +4,16 @@
   "icons": [
     {
       "src": "/img/logo-brand.jpg",
-      "type": "image/png",
+      "type": "image/jps",
       "sizes": "192x192"
     },
     {
       "src": "/img/logo-brand.jpg",
-      "type": "image/png",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000"

@@ -344,7 +344,7 @@ footer .credit a {
           transition: 0.3s;
      }
 
-     .navbar .navbar-nav.active {
+     .navbar .navbar-nav .active {
           right: 0;
      }
 
